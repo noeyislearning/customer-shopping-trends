@@ -1,3 +1,0 @@
-# Ignoring files that are not detectable by the linguist gem
-*.html linguist-detectable=false
-*.css inguist-detectable=false
